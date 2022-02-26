@@ -2,7 +2,7 @@
 # UX Portfolio
 
 <p float="left">
-  <img src="20220225_161546 (4).jpg" width="330" />
+  <img src="20220131_214325 (4).jpg" width="330" />
 </p>
 ## UX Team Project
 
