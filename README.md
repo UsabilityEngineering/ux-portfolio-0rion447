@@ -4,6 +4,9 @@
 <p float="left">
   <img src="20220131_214325 (4).jpg" width="330" />
 </p>
+
+Hi name is Gabriel Im a CINS major at CSU Chico. This is my final year and I love exploring the user experience of devices.
+
 ## UX Team Project
 
 
