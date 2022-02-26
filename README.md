@@ -7,4 +7,4 @@
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Read about my experience with an air purifier](j01/)
