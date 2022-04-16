@@ -13,3 +13,5 @@ Hi name is Gabriel Im a CINS major at CSU Chico. This is my final year and I lov
 ## UX Journal
 
 [Read about my experience with an air purifier](j01/)
+
+[Read about my experience with Discord](j02/)
